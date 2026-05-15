@@ -34,7 +34,4 @@
 </div>
 <br><br><br>
 
-<div align="center">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=w-e-x&theme=dark&hide_border=true">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-e-x&theme=dark&hide_border=true&layout=compact">
-</div>
+
